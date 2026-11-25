@@ -38,3 +38,5 @@ header nav a[aria-current="page"]{color:var(--ink);text-decoration:underline;tex
 
 .next-project[hidden]{display:none}
 @media(max-width:620px){header{position:relative;display:block;padding-top:84px}header .wordmark{position:absolute;right:0;top:28px;max-width:none;white-space:nowrap}header nav{max-width:none;gap:0 20px}header nav a{min-height:44px;display:inline-flex;align-items:center}body:has(.portfolio) header{padding-top:84px;padding-bottom:28px}}
+
+.tile-caption p.tile-status{display:inline-block;font:500 9px/1 var(--font);letter-spacing:.16em;text-transform:uppercase;border:1px solid currentColor;border-radius:999px;padding:5px 9px 4px;margin-bottom:10px;opacity:.9}
