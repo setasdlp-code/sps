@@ -3,7 +3,7 @@ const filterLinks = [...document.querySelectorAll('header nav [data-filter]')];
 const tiles = [...mosaic.querySelectorAll('.project-tile')];
 const counter = document.querySelector('.grid-count');
 const validFilters = new Set(filterLinks.map(link => link.dataset.filter));
-const filterPaths = { todos: '/', direccion: '/?tipo=direccion', fotografia: '/fotografia/', camara: '/camara/', iluminacion: '/iluminacion/', edicion: '/edicion/' };
+const filterPaths = { todos: '/', direccion: '/?tipo=direccion', fotografia: '/fotografia/', camara: '/camara/', iluminacion: '/iluminacion/', edicion: '/edicion/', asesoria: '/asesoria-creativa/' };
 
 function filterProjects(filter, updateUrl = false) {
   if (!validFilters.has(filter)) filter = 'todos';
