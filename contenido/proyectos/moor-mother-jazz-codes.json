@@ -1,0 +1,60 @@
+{
+  "titulo": "Moor Mother — Jazz Codes",
+  "tipo": "Videoclip",
+  "rol": "Dirección de foto · Edición",
+  "participacion": [
+    "Dirección de fotografía y edición"
+  ],
+  "descripcion": "Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Wood Shaw”, “Barely Woke”, “Umanzi” y “April 7”.",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "work-0",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 675
+  },
+  "imagen_siguiente": {
+    "archivo": "work-0",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 675
+  },
+  "imagen_social": {
+    "archivo": "work-0",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601676?h=5646ac0875&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"Moor Mother — Jazz Codes — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "El proyecto",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Wood Shaw”, “Barely Woke”, “Umanzi” y “April 7”.</p>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "Cyrus Moussavi"
+        ],
+        [
+          "Dirección de fotografía",
+          "Sebastián Pinzón Silva, Timothy Fryett"
+        ],
+        [
+          "Edición",
+          "Cyrus Moussavi y Sebastián Pinzón Silva"
+        ]
+      ]
+    }
+  ]
+}

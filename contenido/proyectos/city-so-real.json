@@ -1,0 +1,68 @@
+{
+  "titulo": "City So Real",
+  "tipo": "Cine documental",
+  "rol": "Cámara",
+  "participacion": [
+    "Cámara"
+  ],
+  "descripcion": "Retrato del Chicago contemporáneo durante la elección de alcalde de 2019 y el verano de 2020, marcado por la pandemia y las protestas tras la muerte de George Floyd.",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "work-4",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 720
+  },
+  "imagen_siguiente": {
+    "archivo": "work-4",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 720
+  },
+  "imagen_social": {
+    "archivo": "work-4",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601647?h=6e55192d73&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"City So Real — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Retrato del Chicago contemporáneo durante la elección de alcalde de 2019 y el verano de 2020, marcado por la pandemia y las protestas tras la muerte de George Floyd.</p>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "Steve James"
+        ],
+        [
+          "Producción",
+          "Zak Piper"
+        ],
+        [
+          "Dirección de fotografía",
+          "Jackson James y Kevin Shaw"
+        ],
+        [
+          "Cámara",
+          "Sebastián Pinzón Silva"
+        ],
+        [
+          "Edición",
+          "David E. Simpson"
+        ]
+      ]
+    }
+  ]
+}

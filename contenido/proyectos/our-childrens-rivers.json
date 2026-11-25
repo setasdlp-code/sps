@@ -1,0 +1,72 @@
+{
+  "titulo": "Our Children's Rivers",
+  "tipo": "Cine documental",
+  "rol": "Dirección de foto · Edición",
+  "participacion": [
+    "Dirección de fotografía y edición"
+  ],
+  "descripcion": "Sigue a La Guardia de Sinangoe, Ecuador, una guardia indígena que patrulla sus tierras ancestrales para proteger uno de los lugares con mayor biodiversidad del planeta de las indus",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "work-1",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 670
+  },
+  "imagen_siguiente": {
+    "archivo": "work-1",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 670
+  },
+  "imagen_social": {
+    "archivo": "work-1",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902602069?h=819aee86cc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"Our Children&#x27;s Rivers — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Sigue a La Guardia de Sinangoe, Ecuador, una guardia indígena que patrulla sus tierras ancestrales para proteger uno de los lugares con mayor biodiversidad del planeta de las industrias extractivas.</p>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "Dominic Gill"
+        ],
+        [
+          "Producción",
+          "Kate Trujillo y Peter Walle"
+        ],
+        [
+          "Producción ejecutiva",
+          "Nadia Gill y Emily Teitsworth"
+        ],
+        [
+          "Fotografía",
+          "Dominic Gill y Sebastián Pinzón Silva"
+        ],
+        [
+          "Edición",
+          "Sebastián Pinzón Silva"
+        ],
+        [
+          "Participantes",
+          "Graciela Quenama, Nixon Andy Narváez, Edison Lucitante, Morelia Media y La Guardia de Sinangoe"
+        ]
+      ]
+    }
+  ]
+}

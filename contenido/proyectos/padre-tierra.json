@@ -1,0 +1,82 @@
+{
+  "titulo": "Padre, Tierra",
+  "tipo": "Serie documental sonora",
+  "rol": "Asesoría creativa",
+  "participacion": [
+    "Sonido directo y coescritura"
+  ],
+  "descripcion": "Una conversación entre padre e hija que cruza lo íntimo y lo colectivo alrededor de la tierra, el conflicto armado, el proceso de paz y la restitución de tierras en Colombia.",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "padre-tierra",
+    "anchos": [
+      480,
+      960,
+      1000
+    ],
+    "ancho": 1000,
+    "alto": 1777
+  },
+  "imagen_siguiente": {
+    "archivo": "padre-tierra",
+    "anchos": [
+      480,
+      960,
+      1000
+    ],
+    "ancho": 1000,
+    "alto": 1777
+  },
+  "imagen_social": {
+    "archivo": "padre-tierra",
+    "ancho": 1000
+  },
+  "media": "<iframe class=\"podcast-player\" src=\"https://open.spotify.com/embed/episode/0iCUjMTr1lIToz2FRzXKFl\" title=\"Padre, Tierra — Audio\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Una conversación entre padre e hija que cruza lo íntimo y lo colectivo alrededor de la tierra, el conflicto armado, el proceso de paz y la restitución de tierras en Colombia.</p>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "Canela Reyes"
+        ],
+        [
+          "Producción",
+          "Daniela Bohórquez, Goldy Levy"
+        ],
+        [
+          "Sonido directo y co-escritura",
+          "Sebastián Pinzón Silva"
+        ],
+        [
+          "Diseño sonoro y mezcla",
+          "Manuel Suárez, Federico Serna, Nicolás Gutiérrez — Tembe Laboratorio Sonoro"
+        ],
+        [
+          "Productoras",
+          "Jarana Cine · Cerosetenta Podcast"
+        ],
+        [
+          "Apoyos",
+          "Friedrich-Ebert-Stiftung — Fescol"
+        ]
+      ],
+      "html_despues": "<a class=\"film-source-link\" href=\"https://jarana-cine.pages.dev/padre_tierra\" target=\"_blank\" rel=\"noopener\">Créditos en Jarana Cine ↗</a>"
+    },
+    {
+      "titulo": "Escuchar los episodios",
+      "html": "<div class=\"podcast-episodes\"><iframe class=\"podcast-player\" src=\"https://open.spotify.com/embed/episode/3dMtGBr6KlF06MpOUDPaxn\" title=\"Padre, Tierra — Episodio 2 — Audio\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe><iframe class=\"podcast-player\" src=\"https://open.spotify.com/embed/episode/6Mg3BsrnCizpeXeCnRZt2Q\" title=\"Padre, Tierra — Episodio 3 — Audio\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe><iframe class=\"podcast-player\" src=\"https://open.spotify.com/embed/episode/53yTSGBJjrikl5OGIMf1dJ\" title=\"Padre, Tierra — Episodio 4 — Audio\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe><iframe class=\"podcast-player\" src=\"https://open.spotify.com/embed/episode/5Uu9KROdsnEg6nhIMnar32\" title=\"Padre, Tierra — Episodio 5 — Audio\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></div>"
+    },
+    {
+      "titulo": "Fotogramas",
+      "clase": "project-gallery-block",
+      "html": "<div class=\"project-gallery\"><figure><img class=\"film-still\" src=\"/assets/optimized/padre-tierra-960.webp\" srcset=\"/assets/optimized/padre-tierra-480.webp 480w, /assets/optimized/padre-tierra-960.webp 960w, /assets/optimized/padre-tierra-1000.webp 1000w\" sizes=\"(max-width:620px) calc(100vw - 40px), (max-width:900px) calc(100vw - 64px), 900px\" width=\"1000\" height=\"1777\" alt=\"Padre, Tierra — Fotograma\" loading=\"lazy\" decoding=\"async\"></figure></div>"
+    }
+  ]
+}

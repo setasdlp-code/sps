@@ -1,0 +1,82 @@
+{
+  "titulo": "Las Almas ni los Ojos",
+  "tipo": "Cine documental",
+  "rol": "Diseño Lumínico",
+  "participacion": [
+    "Diseño de iluminación"
+  ],
+  "descripcion": "Pacho, un hombre de 58 años, llega a un viejo pueblo casi en ruinas después de haber hecho un viaje por las estrellas durante miles de años. Allí lo reciben unos rostros que lo lle",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "almas-0",
+    "anchos": [
+      480,
+      960,
+      1600
+    ],
+    "ancho": 1920,
+    "alto": 1440
+  },
+  "imagen_siguiente": {
+    "archivo": "almas-1",
+    "anchos": [
+      480,
+      960,
+      1600
+    ],
+    "ancho": 1920,
+    "alto": 1174
+  },
+  "imagen_social": {
+    "archivo": "almas-0",
+    "ancho": 1600
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/1179022261?transparent=1\" title=\"Las Almas ni los Ojos — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Pacho, un hombre de 58 años, llega a un viejo pueblo casi en ruinas después de haber hecho un viaje por las estrellas durante miles de años. Allí lo reciben unos rostros que lo llevan esperando mucho tiempo.</p><div class=\"project-prose\"><p>Pacho vive lejos de su pueblo de infancia, del que se vio obligado a huir hace medio siglo. Una mañana, encuentra una vieja fotografía que lo arrastra a un viaje imaginario de regreso a su tierra natal.</p><p>A través de la memoria, el grano fílmico y universos llenos de estrellas, Pacho inicia un retorno interior, en el que deambula por las calles desiertas de su pueblo. Allí, rostros del pasado emergen de las sombras para confrontarlo con la violencia que marcó su vida.</p><p>Las Almas ni los Ojos reimagina una de las primeras fotografías de la violencia moderna en Colombia, transformándola en un territorio vivo donde la imaginación se convierte en un acto de resistencia, sanación y confrontación con el trauma colectivo.</p></div>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "César Alejandro Jaimes, Canela Reyes"
+        ],
+        [
+          "Producción",
+          "Laura Nogal"
+        ],
+        [
+          "Dirección de fotografía",
+          "Luis Fernando Rojas"
+        ],
+        [
+          "Diseño de iluminación",
+          "Sebastián Pinzón Silva"
+        ],
+        [
+          "Reparto",
+          "José Oliveiro Ospina \"Pacho\""
+        ],
+        [
+          "Productoras",
+          "Los Niños Films · Jarana Cine (coproducción) · Fasmas Cine, en coproducción con Mito Films · Welt Films"
+        ]
+      ],
+      "html_despues": "<a class=\"film-source-link\" href=\"https://jarana-cine.pages.dev/las_almas\" target=\"_blank\" rel=\"noopener\">Créditos en Jarana Cine ↗</a>"
+    },
+    {
+      "titulo": "Festivales y reconocimientos",
+      "html": "<ul class=\"project-awards\"><li>Premio a la mejor dirección — Competencia Colombia, FICCI 2026</li><li>Selección oficial — Competencia Colombia, FICCI 2026</li></ul>"
+    },
+    {
+      "titulo": "Fotogramas",
+      "clase": "project-gallery-block",
+      "html": "<div class=\"project-gallery\"><figure><img class=\"film-still\" src=\"/assets/optimized/almas-0-960.webp\" srcset=\"/assets/optimized/almas-0-480.webp 480w, /assets/optimized/almas-0-960.webp 960w, /assets/optimized/almas-0-1600.webp 1600w\" sizes=\"(max-width:620px) calc(100vw - 40px), (max-width:900px) calc(100vw - 64px), 900px\" width=\"1920\" height=\"1440\" alt=\"Las Almas ni los Ojos — Fotograma\" loading=\"lazy\" decoding=\"async\"></figure><figure><img class=\"film-still\" src=\"/assets/optimized/almas-1-960.webp\" srcset=\"/assets/optimized/almas-1-480.webp 480w, /assets/optimized/almas-1-960.webp 960w, /assets/optimized/almas-1-1600.webp 1600w\" sizes=\"(max-width:620px) calc(100vw - 40px), (max-width:900px) calc(100vw - 64px), 900px\" width=\"1920\" height=\"1174\" alt=\"Las Almas ni los Ojos — Fotograma\" loading=\"lazy\" decoding=\"async\"></figure><figure><img class=\"film-still\" src=\"/assets/optimized/almas-2-960.webp\" srcset=\"/assets/optimized/almas-2-480.webp 480w, /assets/optimized/almas-2-960.webp 960w, /assets/optimized/almas-2-1600.webp 1600w\" sizes=\"(max-width:620px) calc(100vw - 40px), (max-width:900px) calc(100vw - 64px), 900px\" width=\"1920\" height=\"1080\" alt=\"Las Almas ni los Ojos — Fotograma\" loading=\"lazy\" decoding=\"async\"></figure><figure><img class=\"film-still\" src=\"/assets/optimized/almas-3-960.webp\" srcset=\"/assets/optimized/almas-3-480.webp 480w, /assets/optimized/almas-3-960.webp 960w, /assets/optimized/almas-3-1600.webp 1600w\" sizes=\"(max-width:620px) calc(100vw - 40px), (max-width:900px) calc(100vw - 64px), 900px\" width=\"1920\" height=\"1080\" alt=\"Las Almas ni los Ojos — Fotograma\" loading=\"lazy\" decoding=\"async\"></figure></div>"
+    }
+  ]
+}

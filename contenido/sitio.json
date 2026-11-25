@@ -1,0 +1,100 @@
+{
+  "nombre": "Sebastián Pinzón Silva",
+  "dominio": "https://sebastianpinzon.com",
+  "descripcion": "Películas y trabajos de Sebastián Pinzón Silva. Filtra por dirección, fotografía, cámara o edición.",
+  "imagen_social": {
+    "archivo": "labonga-grid",
+    "ancho_max": 1280,
+    "alt": "La Bonga"
+  },
+  "filtros": [
+    {
+      "clave": "todos",
+      "nombre": "Todos",
+      "ruta": "/",
+      "pagina": null
+    },
+    {
+      "clave": "direccion",
+      "nombre": "Dirección",
+      "ruta": "/?tipo=direccion",
+      "pagina": null
+    },
+    {
+      "clave": "fotografia",
+      "nombre": "Dirección de foto",
+      "ruta": "/fotografia/",
+      "pagina": "fotografia"
+    },
+    {
+      "clave": "camara",
+      "nombre": "Cámara",
+      "ruta": "/camara/",
+      "pagina": "camara"
+    },
+    {
+      "clave": "iluminacion",
+      "nombre": "Diseño Lumínico",
+      "ruta": "/iluminacion/",
+      "pagina": "iluminacion"
+    },
+    {
+      "clave": "edicion",
+      "nombre": "Edición",
+      "ruta": "/edicion/",
+      "pagina": "edicion"
+    },
+    {
+      "clave": "asesoria",
+      "nombre": "Asesoría creativa",
+      "ruta": "/asesoria-creativa/",
+      "pagina": "asesoria-creativa"
+    }
+  ],
+  "orden": {
+    "todos": [
+      "labonga",
+      "palenque",
+      "gigante",
+      "kikuyo",
+      "moor-mother-jazz-codes",
+      "our-childrens-rivers",
+      "moor-mother-woody-shaw",
+      "city-so-real",
+      "giving-voice",
+      "las-almas-ni-los-ojos",
+      "padre-tierra"
+    ],
+    "direccion": [
+      "labonga",
+      "palenque",
+      "gigante",
+      "kikuyo"
+    ],
+    "fotografia": [
+      "labonga",
+      "moor-mother-woody-shaw",
+      "our-childrens-rivers",
+      "moor-mother-jazz-codes",
+      "kikuyo"
+    ],
+    "camara": [
+      "city-so-real",
+      "giving-voice"
+    ],
+    "iluminacion": [
+      "las-almas-ni-los-ojos"
+    ],
+    "edicion": [
+      "labonga",
+      "gigante",
+      "kikuyo",
+      "moor-mother-jazz-codes",
+      "our-childrens-rivers",
+      "moor-mother-woody-shaw"
+    ],
+    "asesoria": [
+      "padre-tierra"
+    ]
+  }
+}

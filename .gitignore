@@ -1,0 +1,7 @@
+# Generados por build.py (se crean en cada build; no editar)
+site/index.html
+site/*/index.html
+site/next-projects.js
+site/project-details.js
+site/sitemap.xml
+__pycache__/

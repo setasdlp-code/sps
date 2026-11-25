@@ -1,0 +1,60 @@
+{
+  "titulo": "Moor Mother — Woody Shaw",
+  "tipo": "Videoclip",
+  "rol": "Dirección de foto · Edición",
+  "participacion": [
+    "Dirección de fotografía y edición"
+  ],
+  "descripcion": "Videoclip de Moor Mother para el álbum Jazz Codes.",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "work-2",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 675
+  },
+  "imagen_siguiente": {
+    "archivo": "work-2",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 675
+  },
+  "imagen_social": {
+    "archivo": "work-2",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601947?h=995d3ea1ff&amp;transparent=1\" title=\"Moor Mother — Woody Shaw — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "El proyecto",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Videoclip de Moor Mother para el álbum Jazz Codes.</p>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "Cyrus Moussavi"
+        ],
+        [
+          "Dirección de fotografía",
+          "Sebastián Pinzón Silva, Timothy Fryett"
+        ],
+        [
+          "Edición",
+          "Cyrus Moussavi y Sebastián Pinzón Silva"
+        ]
+      ]
+    }
+  ]
+}

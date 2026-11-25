@@ -1,0 +1,51 @@
+{
+  "titulo": "Giving Voice",
+  "tipo": "Cine documental",
+  "rol": "Cámara",
+  "participacion": [
+    "Cámara"
+  ],
+  "descripcion": "Giving Voice — Cámara",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "work-3",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 720
+  },
+  "imagen_siguiente": {
+    "archivo": "work-3",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 720
+  },
+  "imagen_social": {
+    "archivo": "work-3",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601621?h=72a2f579a9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"Giving Voice — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección",
+          "James D. Stern y Fernando Villena"
+        ],
+        [
+          "Cámara",
+          "Sebastián Pinzón Silva"
+        ]
+      ]
+    }
+  ]
+}
