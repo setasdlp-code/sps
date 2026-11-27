@@ -32,7 +32,7 @@
     "archivo": "cienaga",
     "ancho": 1280
   },
-  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/27227079?transparent=1\" title=\"Ciénaga — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/27227079?autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"Ciénaga — Video\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
   "secciones": [
     {
       "titulo": "Sinopsis",
