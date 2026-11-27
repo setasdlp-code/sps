@@ -6,7 +6,7 @@
   "participacion": [
     "Dirección de fotografía y edición"
   ],
-  "descripcion": "Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Wood Shaw”, “Barely Woke”, “Umanzi” y “April 7”.",
+  "descripcion": "Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Woody Shaw”, “Barely Woke”, “Umanzi” y “April 7”.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "work-0",
@@ -37,7 +37,7 @@
     {
       "titulo": "El proyecto",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Wood Shaw”, “Barely Woke”, “Umanzi” y “April 7”.</p>"
+      "html": "<p class=\"project-lead\">Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Woody Shaw”, “Barely Woke”, “Umanzi” y “April 7”.</p>"
     },
     {
       "titulo": "Créditos",

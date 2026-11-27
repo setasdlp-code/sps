@@ -60,7 +60,7 @@
         ],
         [
           "Producción ejecutiva",
-          "Kellen Quin"
+          "Kellen Quinn"
         ],
         [
           "Producción de impacto",
@@ -111,7 +111,11 @@
     },
     {
       "titulo": "Festivales y reconocimientos",
-      "html": "<ul class=\"project-awards\"><li>Mejor Ópera Prima Loridan Ivens / Cnap en Cinéma Du Réel (París)</li><li>Patrimonio Cultural Inmaterial en Cinéma Du Réel (París)</li><li>Mejor Documental Rencontres de Toulouse en Cinelatino (Toulouse)</li><li>Mejor Documental en el Festival de Cine Colombiano en Nueva York</li><li>Mejor dirección en Cinemancia (Medellín)</li><li>Gran Premio en Panorama de Cine Colombiano en París</li><li>Mejor Largometraje en la categoría “Departures” en Indie Memphis Film Festival</li><li>Mejor largometraje - Festival Montes de María FAMMA (Carmen de Bolívar)</li><li>Mejor largometraje nacional - Miradas (Medellín)</li></ul>"
+      "html": "<ul class=\"project-awards\"><li>Mejor Ópera Prima Loridan Ivens / Cnap en Cinéma Du Réel (París)</li><li>Patrimonio Cultural Inmaterial en Cinéma Du Réel (París)</li><li>Mejor Documental Rencontres de Toulouse en Cinelatino (Toulouse)</li><li>Mejor Documental en el Festival de Cine Colombiano en Nueva York</li><li>Mejor dirección en Cinemancia (Medellín)</li><li>Gran Premio en Panorama de Cine Colombiano en París</li><li>Mejor Largometraje en la categoría “Departures” en Indie Memphis Film Festival</li><li>Mejor largometraje - Festival Montes de María FAMMA (Carmen de Bolívar)</li><li>Mejor largometraje nacional - Miradas (Medellín)</li><li>Mención especial — Villa del Cine (Villa de Leyva)</li></ul>"
+    },
+    {
+      "titulo": "Selecciones oficiales",
+      "html": "<ul class=\"project-awards\"><li>Cinéma du Réel (París)</li><li>MoMA Doc Fortnight (Nueva York)</li><li>True/False</li><li>DMZ Docs</li><li>RIDM (Montreal)</li><li>SFFILM (San Francisco)</li><li>Dokufest</li><li>Festival des 3 Continents (Nantes)</li><li>New Orleans Film Festival</li><li>FICCI (Cartagena)</li><li>IDFA 2026, programa Dead Angle (Ámsterdam)</li><li>Más de 50 festivales en total</li></ul>"
     },
     {
       "titulo": "Fotogramas",
