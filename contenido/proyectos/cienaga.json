@@ -1,0 +1,51 @@
+{
+  "titulo": "Ciénaga",
+  "tipo": "Cortometraje documental",
+  "anio": 2011,
+  "rol": "Dirección",
+  "participacion": [
+    "Dirección"
+  ],
+  "descripcion": "Humberto Camargo, pescador de toda la vida, cuenta la masacre que desarraigó a su comunidad y el desastre ambiental que ha agotado la Ciénaga Grande de Santa Marta.",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "cienaga",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 720
+  },
+  "imagen_siguiente": {
+    "archivo": "cienaga",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1280,
+    "alto": 720
+  },
+  "imagen_social": {
+    "archivo": "cienaga",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/27227079?transparent=1\" title=\"Ciénaga — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Humberto Camargo, pescador de toda la vida, cuenta la historia de la masacre que desarraigó a su comunidad y del desastre ambiental que ha agotado la Ciénaga Grande de Santa Marta, uno de los humedales costeros más grandes de América Latina.</p>"
+    },
+    {
+      "titulo": "Ficha técnica",
+      "html": "<ul class=\"project-facts\"><li>Cortometraje documental</li><li>11 min. / 2011</li></ul>"
+    },
+    {
+      "titulo": "Festivales",
+      "html": "<ul class=\"project-awards\"><li>Selección oficial — DOC NYC, Latin American Visions</li></ul>"
+    }
+  ]
+}
