@@ -47,12 +47,12 @@ y abrir http://localhost:8000.
 
 ## Publicar
 
-Cloudflare Pages conectado a este repositorio:
+Cloudflare Workers conectado a este repositorio (proyecto `sps`):
 
 - Build command: `python3 build.py`
-- Build output directory: `site`
+- Deploy command: `npx wrangler deploy` (lee `wrangler.jsonc`, que publica la carpeta `site/`)
 
-Cada cambio que llega a `main` se publica solo. Cada rama o pull request recibe una URL de vista previa. Si `build.py` encuentra un error (por ejemplo, una clave en `sitio.json` sin su archivo), el build falla y queda publicada la versión anterior.
+Cada cambio que llega a `main` se publica solo. Si `build.py` encuentra un error (por ejemplo, una clave en `sitio.json` sin su archivo), el build falla y queda publicada la versión anterior.
 
 El navegador recibe `style.css` y los `.js` con `?v=<huella>`. La huella se calcula en cada build, así que no hay que cambiar versiones a mano.
 

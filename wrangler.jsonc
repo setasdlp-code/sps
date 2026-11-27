@@ -1,0 +1,11 @@
+// Configuración para Cloudflare Workers (sitio estático).
+// Cloudflare corre "python3 build.py" y después "npx wrangler deploy", que publica site/.
+{
+  "name": "sps",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "none"
+  }
+}
