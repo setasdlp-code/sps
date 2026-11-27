@@ -81,7 +81,8 @@ for filtro, claves in ORDEN.items():
         if c not in proyectos:
             error(f'orden.{filtro} incluye "{c}", que no está en orden.todos')
 
-V = {f: version(f) for f in ['style.css', 'app.js', 'bio.js', 'common.js', 'grid.js']}
+V = {f: version(f) for f in ['style.css', 'app.js', 'bio.js', 'common.js', 'grid.js', 'contacto.js']}
+CLAVE_FORMULARIO = sitio.get('contacto', {}).get('web3forms_clave', '').strip()
 
 
 def categorias(clave):
@@ -131,7 +132,10 @@ def menu(actual=None, con_filtros=True):
         enlaces.append(f'<a href="{f["ruta"]}"{cur}{df}>{esc(f["nombre"])}</a>')
     cur = ' aria-current="page"' if actual == 'bio' else ''
     enlaces.append(f'<a href="/bio/"{cur}>Biografía</a>')
-    etiqueta = f' aria-label="{esc(NOMBRE)}, inicio"' if actual == 'bio' else ''
+    if CLAVE_FORMULARIO:
+        cur = ' aria-current="page"' if actual == 'contacto' else ''
+        enlaces.append(f'<a href="/contacto/"{cur}>Contacto</a>')
+    etiqueta = f' aria-label="{esc(NOMBRE)}, inicio"' if actual in ('bio', 'contacto') else ''
     return (
         '<body><a class="skip" href="#contenido">Saltar al contenido</a><header>'
         '<nav aria-label="Navegación principal">' + ''.join(enlaces) + '</nav>'
@@ -158,7 +162,8 @@ def ficha(clave, en_ventana):
     h_titulo = 'h2 id="dialog-title"' if en_ventana else 'h1'
     h_cierre = 'h2' if en_ventana else 'h1'
     h_sec = 'h3' if en_ventana else 'h2'
-    tipo = p['tipo'] + (' · ' + p['estado'] if p.get('estado') else '')
+    detalle = p.get('estado') or (str(p['anio']) if p.get('anio') else '')
+    tipo = p['tipo'] + (' · ' + detalle if detalle else '')
     part = ''.join(f'<span>{esc(x)}</span>' for x in p['participacion'])
     enlace = f'<a class="project-permalink" href="/{clave}/">Ver ficha completa ↗</a>' if en_ventana else ''
     secciones = []
@@ -202,6 +207,10 @@ def pagina_proyecto(clave):
 
 # ---------------------------------------------------------------- cuadrícula
 
+def rol_tarjeta(p):
+    return (f'{p["anio"]} · ' if p.get('anio') and not p.get('estado') else '') + p['rol']
+
+
 def tarjeta(clave, filtro, primera):
     p = proyectos[clave]
     cats = categorias(clave)
@@ -218,7 +227,7 @@ def tarjeta(clave, filtro, primera):
     estado = f'<p class="tile-status">{esc(p["estado"])}</p>' if p.get('estado') else ''
     return (
         f'<a class="project-tile" href="/{clave}/" data-key="{clave}" data-categories="{" ".join(cats)}"{rangos}{film}'
-        f'{" hidden" if oculta else ""}>{img}<div class="tile-caption">{estado}<p>{esc(p["rol"])}</p>'
+        f'{" hidden" if oculta else ""}>{img}<div class="tile-caption">{estado}<p>{esc(rol_tarjeta(p))}</p>'
         f'<h2>{esc(p["titulo"])}</h2><span aria-hidden="true">↗</span></div></a>'
     )
 
@@ -259,6 +268,36 @@ def pagina_bio():
     )
 
 
+def pagina_contacto():
+    soc = sitio['imagen_social']
+    desc = 'Escríbele a Sebastián Pinzón Silva.'
+    cuerpo = (
+        '<section class="bio-layout contact-layout" aria-labelledby="contact-heading">'
+        '<div class="bio-side"><h1 id="contact-heading">Contacto</h1></div>'
+        '<div class="bio-main">'
+        '<p class="bio-lead">Escríbeme para proyectos, proyecciones o colaboraciones.</p>'
+        '<form class="contact-form" action="https://api.web3forms.com/submit" method="POST">'
+        f'<input type="hidden" name="access_key" value="{esc(CLAVE_FORMULARIO)}">'
+        '<input type="hidden" name="subject" value="Mensaje desde sebastianpinzon.com">'
+        '<input type="hidden" name="from_name" value="sebastianpinzon.com">'
+        f'<input type="hidden" name="redirect" value="{DOM}/contacto/?enviado=1">'
+        '<input type="checkbox" name="botcheck" class="contact-trap" tabindex="-1" autocomplete="off" aria-hidden="true">'
+        '<label>Nombre<input type="text" name="name" autocomplete="name" required maxlength="200"></label>'
+        '<label>Correo<input type="email" name="email" autocomplete="email" required maxlength="200"></label>'
+        '<label>Mensaje<textarea name="message" rows="7" required maxlength="5000"></textarea></label>'
+        '<button type="submit">Enviar <span aria-hidden="true">↗</span></button>'
+        '<p class="contact-status" role="status" aria-live="polite"></p>'
+        '</form></div></section>'
+    )
+    return (
+        cabeza('Contacto — ' + NOMBRE, desc, DOM + '/contacto/',
+               f'{DOM}/assets/optimized/{soc["archivo"]}-{soc["ancho_max"]}.webp', soc['alt'])
+        + menu('contacto', con_filtros=False)
+        + '<main id="contenido" class="bio-page">' + cuerpo + '</main>'
+        + PIE + f'<script src="/contacto.js?v={V["contacto.js"]}"></script></body></html>'
+    )
+
+
 # ---------------------------------------------------------------- escribir
 
 catalogo = {c: {'title': p['titulo'], 'imageAttributes': atributos_siguiente(p['imagen_siguiente'])}
@@ -281,7 +320,11 @@ for f in FILTROS:
 for c in proyectos:
     escribir(c + '/index.html', pagina_proyecto(c))
 escribir('bio/index.html', pagina_bio())
-rutas = ['/', '/bio/'] + [f'/{c}/' for c in proyectos] + rutas[1:]
+if CLAVE_FORMULARIO:
+    escribir('contacto/index.html', pagina_contacto())
+else:
+    print('AVISO: contenido/sitio.json no tiene contacto.web3forms_clave; no se publica /contacto/')
+rutas = ['/', '/bio/'] + [f'/{c}/' for c in proyectos] + rutas[1:] + (['/contacto/'] if CLAVE_FORMULARIO else [])
 escribir('sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
          + ''.join(f'<url><loc>{DOM}{r}</loc></url>' for r in rutas) + '</urlset>\n')
 print(f'Sitio generado en site/: {len(proyectos)} proyectos, {len(rutas)} páginas.')

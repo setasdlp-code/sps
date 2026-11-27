@@ -1,6 +1,6 @@
 {
   "titulo": "Kikuyo",
-  "tipo": "Cine documental",
+  "tipo": "Cortometraje documental",
   "estado": "En curso",
   "rol": "Dirección · Dirección de foto · Edición",
   "participacion": [
@@ -9,7 +9,7 @@
     "Dirección de fotografía",
     "Edición"
   ],
-  "descripcion": "Kikuyu spreads its tentacles all over my city, stealing square meters from the asphalt. It attacks with gentle violence, patiently making its way through brick and concrete while w",
+  "descripcion": "Kikuyo extiende sus tentáculos por mi ciudad: avanza gentil y contundentemente, navega a través del ladrillo y del concreto mientras dormimos.",
   "ventana": true,
   "imagen_tarjeta": {
     "archivo": "kikuyo0",
@@ -40,7 +40,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Kikuyu spreads its tentacles all over my city, stealing square meters from the asphalt. It attacks with gentle violence, patiently making its way through brick and concrete while we sleep. It is an ancient overflowing force that devours everything on its path.</p><div class=\"project-prose\"><p>Nearly one hundred years after Kikuyu was introduced to Colombia it has become so widespread that it is hard to imagine the landscape without it. We grew up surrounded by Kikuyu. Its omnipresence has made it invisible to those of us who were born after its arrival. Every day it grows more cushioned as it invites us to rest on it. Its sword-shaped leaves gently cradle us to sleep. It is only then, in between wakefulness and slumber, that Kikuyu reveals to us its secrets.</p><p>Pennisetum clandestinum: this type of grass is described in botanic encyclopedias as aggressive, greedy, and bold - an excellent colonizer. It originally comes from the skirts of Mount Kenya, the home of the Kikuyu people. Kikuyu is a footprint of colonization. It first traveled to South Africa via Dutch settlers and then all over the highlands around the equator, its preferred territory. Wrapped around the earth, this Ouroboros has been quietly swallowing equatorial jungles and cities for hundreds of years.</p><p>Kikuyu was brought to Colombia in 1928 by Jose Félix Riveros after reading an article in the London Times that extolled Kikuyu’s resistance to the footsteps of cattle. It is now on every sidewalk, every park, and every childhood memory. We have played, loved, slept, and will one day too be finally put to rest, covered by Kikuyu.</p><p>Guided by voices that speak to Kikuyu, we see archival and observational documentary footage focusing on people interacting with grass. These scenes are woven together as they describe a mysterious creature. Nighttime arrives and Kikuyu comes to life. We see it grow as it slowly swallows everything in its path. The voices that speak to Kikuyu become visible hidden under a veil of grass. We see them roaming deserted streets at night, dwelling in cemeteries and empty stadiums, fading into the morning fog. They tell the story of how it swallowed our city and lived long after we were all gone.</p><p>Kikuyu is a film that denounces how the grasses have taken over the American continent and have devoured all kinds of native species that previously provided food and regulated the cycles of the different ecosystems. In the case of Colombia, as well as in several Latin American countries and around the world, grass has been used to colonize extensive land and use it mainly for livestock farming, one of the most damaging industries contributing to climate change. The creation of grasslands has been one of the main factors in the inequitable distribution of land, deepening social injustice in developing countries. We believe that reflecting on the speed at which pastures are deforesting and homogenizing territories, yet in silent and relentless ways, is extremely urgent and important for the future of our countries.</p></div>"
+      "html": "<p class=\"project-lead\">Kikuyo extiende sus tentáculos por mi ciudad: avanza gentil y contundentemente, navega a través del ladrillo y del concreto mientras dormimos.</p><div class=\"project-prose\"><p>Kikuyo es una fuerza ancestral, omnipresente, que consume todo a su paso, cada andén y cada recuerdo de la infancia. Hemos jugado, amado y dormido sobre su superficie verde, suave, cómoda, y un día también descansaremos para siempre cubiertos por él.</p><p>Kikuyo rodea a Bogotá y la cubre completamente, haciéndose invisible para aquellos que nacimos después de su llegada. Casi cien años después, es imposible imaginar nuestro paisaje sin él. El <i>Pennisetum clandestinum</i>, descrito en las enciclopedias botánicas como agresivo, codicioso y audaz, es un testimonio de la colonización: un devorador implacable que da forma al medio ambiente.</p><p>Esta película es un poema dedicado al Kikuyo, guiada por voces que narran su implacable invasión de casas y edificios abandonados en Bogotá. Es una exploración de la conexión íntima entre la colonización y el olvido, acerca de la homogeneización silenciosa e inquieta creada por los pastos en todo el mundo. Kikuyo cuenta la historia de una ciudad olvidada devorada por un tipo de hierba que seguirá prosperando mucho después de que todos hayamos desaparecido.</p></div>"
     },
     {
       "titulo": "Créditos",
@@ -104,7 +104,7 @@
         ],
         [
           "Apoyos",
-          "Beca Producción Documental Regional: Bogotá"
+          "Estímulo a la producción de cortometraje documental, Proimágenes Colombia / FDC (2025) · Climate Crisis + Media Arts (CC+MA) Grant, Northwestern University (2023)"
         ]
       ]
     },
