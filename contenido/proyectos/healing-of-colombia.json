@@ -1,0 +1,59 @@
+{
+  "titulo": "Healing of Colombia",
+  "tipo": "Cortometraje documental · National Geographic",
+  "anio": 2019,
+  "rol": "Dirección · Dirección de foto · Edición",
+  "participacion": [
+    "Dirección",
+    "Dirección de fotografía",
+    "Edición"
+  ],
+  "descripcion": "Cortometraje de National Geographic sobre la violencia cíclica en Colombia después del acuerdo de paz de 2016.",
+  "ventana": false,
+  "imagen_tarjeta": {
+    "archivo": "healing-of-colombia",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1200,
+    "alto": 675
+  },
+  "imagen_siguiente": {
+    "archivo": "healing-of-colombia",
+    "anchos": [
+      480,
+      960,
+      1280
+    ],
+    "ancho": 1200,
+    "alto": 675
+  },
+  "imagen_social": {
+    "archivo": "healing-of-colombia",
+    "ancho": 1280
+  },
+  "media": "<iframe class=\"film-video\" src=\"https://www.youtube-nocookie.com/embed/2PYJWp1QQ-A\" title=\"Healing of Colombia — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
+  "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Años después de la guerra, una mujer colombiana todavía no puede volver a su casa. Encargo de la revista National Geographic para acompañar un artículo sobre la violencia cíclica en Colombia después del acuerdo de paz de 2016.</p>"
+    },
+    {
+      "titulo": "Créditos",
+      "clase": "project-team",
+      "creditos": [
+        [
+          "Dirección, fotografía y edición",
+          "Sebastián Pinzón Silva"
+        ],
+        [
+          "Producción",
+          "National Geographic"
+        ]
+      ]
+    }
+  ]
+}
