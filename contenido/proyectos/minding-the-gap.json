@@ -11,22 +11,24 @@
   "imagen_tarjeta": {
     "archivo": "minding-the-gap",
     "anchos": [
-      480
+      480,
+      960
     ],
-    "ancho": 480,
-    "alto": 266
+    "ancho": 1200,
+    "alto": 549
   },
   "imagen_siguiente": {
     "archivo": "minding-the-gap",
     "anchos": [
-      480
+      480,
+      960
     ],
-    "ancho": 480,
-    "alto": 266
+    "ancho": 1200,
+    "alto": 549
   },
   "imagen_social": {
     "archivo": "minding-the-gap",
-    "ancho": 480
+    "ancho": 960
   },
   "media": "<iframe class=\"film-video\" src=\"https://www.youtube-nocookie.com/embed/eqtw5rek5y8\" title=\"Minding the Gap — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
   "secciones": [
