@@ -52,6 +52,8 @@ Cloudflare Workers conectado a este repositorio (proyecto `sps`):
 - Build command: `python3 build.py`
 - Deploy command: `npx wrangler deploy` (lee `wrangler.jsonc`, que publica la carpeta `site/`)
 
+El dominio llega al Worker por dos rutas en la zona `sebastianpinzon.com` (`sebastianpinzon.com/*` y `www.sebastianpinzon.com/*`, pestaña Domains del Worker). Los registros DNS todavía apuntan al proyecto de Pages viejo `sebastian-pinzon`, pero las rutas tienen prioridad: no borrar ese proyecto sin antes pasar el dominio a "Custom domain" del Worker.
+
 Cada cambio que llega a `main` se publica solo. Si `build.py` encuentra un error (por ejemplo, una clave en `sitio.json` sin su archivo), el build falla y queda publicada la versión anterior.
 
 El navegador recibe `style.css` y los `.js` con `?v=<huella>`. La huella se calcula en cada build, así que no hay que cambiar versiones a mano.
