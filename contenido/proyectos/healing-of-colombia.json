@@ -8,7 +8,7 @@
     "Dirección de fotografía",
     "Edición"
   ],
-  "descripcion": "Corto documental de National Geographic que acompaña «The Healing of Colombia» (enero de 2018), sobre la paz y los desplazados en Colombia.",
+  "descripcion": "Corto de National Geographic sobre María de los Santos, desplazada de La Bonga, que acompaña «The Healing of Colombia» (enero de 2018).",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "healing-of-colombia",
@@ -39,7 +39,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Después de 52 años de guerra, Colombia intenta sanar. Una mujer desplazada por la violencia todavía no puede volver a su casa.</p><div class=\"project-prose\"><p>Cortometraje documental encargado por National Geographic para acompañar «The Healing of Colombia», el reportaje de Alma Guillermoprieto con fotografías de Juan Arredondo publicado en la edición de enero de 2018 de la revista.</p><p>El reportaje recorre el país tras el acuerdo de paz de 2016 y la entrega de armas de las FARC a la ONU en junio de 2017. Su punto de partida es El Salado (Bolívar), donde los paramilitares asesinaron a 66 personas en febrero de 2000 y cuyos habitantes, desplazados en su totalidad, regresaron dos años después para reconstruir el pueblo.</p><p>El cortometraje sigue a otra mujer desplazada por la guerra que, años después del acuerdo, todavía no ha podido regresar a su casa.</p></div>"
+      "html": "<p class=\"project-lead\">Después de 52 años de guerra, Colombia intenta sanar. María de los Santos, desplazada de La Bonga, todavía no puede volver a su casa.</p><div class=\"project-prose\"><p>Cortometraje documental encargado por National Geographic para acompañar «The Healing of Colombia», el reportaje de Alma Guillermoprieto con fotografías de Juan Arredondo publicado en la edición de enero de 2018 de la revista.</p><p>El reportaje recorre el país tras el acuerdo de paz de 2016 y la entrega de armas de las FARC a la ONU en junio de 2017. Su punto de partida es El Salado (Bolívar), donde los paramilitares asesinaron a 66 personas en febrero de 2000 y cuyos habitantes, desplazados en su totalidad, regresaron dos años después para reconstruir el pueblo.</p><p>El cortometraje sigue a María de los Santos Cásseres, de La Bonga, un pueblo palenquero de Bolívar cuyos habitantes huyeron en 2001 tras una amenaza paramilitar. Años después del acuerdo de paz, ella sigue sin poder volver a vivir en su tierra. María de los Santos es también protagonista de <a href=\"/labonga/\"><i>La Bonga</i></a> (2023).</p></div>"
     },
     {
       "titulo": "Artículo",
