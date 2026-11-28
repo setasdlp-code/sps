@@ -6,7 +6,7 @@
   "participacion": [
     "Cámara"
   ],
-  "descripcion": "Giving Voice — Cámara",
+  "descripcion": "Documental de James D. Stern y Fernando Villena sobre el concurso de monólogos August Wilson. Sundance 2020, Netflix.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "work-3",
@@ -34,6 +34,11 @@
   },
   "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601621?h=72a2f579a9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"Giving Voice — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
   "secciones": [
+    {
+      "titulo": "Sinopsis",
+      "clase": "project-story",
+      "html": "<p class=\"project-lead\">Seis estudiantes de secundaria preparan monólogos de August Wilson con la esperanza de llegar a Broadway en la final nacional del concurso que lleva su nombre.</p><div class=\"project-prose\"><p>Dirigido por James D. Stern y Fernando Villena, el documental sigue a seis jóvenes a lo largo de la edición 2018 del August Wilson Monologue Competition, creado en 2007 para acercar a nuevas generaciones la obra del dramaturgo de Fences y The Piano Lesson. La final se celebra en el August Wilson Theatre de Broadway.</p><p>Se estrenó en el Festival de Sundance de 2020, donde recibió el premio del público Festival Favorite. Netflix adquirió los derechos mundiales y lo publicó el 11 de diciembre de 2020. Viola Davis y John Legend figuran como productores ejecutivos.</p></div>"
+    },
     {
       "titulo": "Créditos",
       "clase": "project-team",

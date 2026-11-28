@@ -6,7 +6,7 @@
   "participacion": [
     "Dirección de fotografía y edición"
   ],
-  "descripcion": "Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Woody Shaw”, “Barely Woke”, “Umanzi” y “April 7”.",
+  "descripcion": "Cortometraje de Cyrus Moussavi con cuatro canciones de Jazz Codes de Moor Mother, filmado entre el Mojave y Leimert Park. En MUBI.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "work-0",
@@ -35,9 +35,9 @@
   "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601676?h=5646ac0875&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;transparent=1\" title=\"Moor Mother — Jazz Codes — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
   "secciones": [
     {
-      "titulo": "El proyecto",
+      "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Cortometraje / videoclip de larga duración con cuatro canciones del disco: “Woody Shaw”, “Barely Woke”, “Umanzi” y “April 7”.</p>"
+      "html": "<p class=\"project-lead\">Moor Mother recorre el desierto de Mojave y llega a Leimert Park para tocar con los mayores del Pan Afrikan Peoples Arkestra.</p><div class=\"project-prose\"><p>Cortometraje de 14 minutos dirigido por Cyrus Moussavi que acompaña el disco Jazz Codes de Moor Mother (Camae Ayewa), publicado por ANTI- en julio de 2022. Reúne cuatro canciones del álbum: «Woody Shaw», «Barely Woke», «Umanzi» y «April 7».</p><p>La parte de Los Ángeles se filmó en la sede del Pan Afrikan Peoples Arkestra en Leimert Park, orquesta comunitaria fundada por Horace Tapscott en 1961, con músicos como Henry «The Skipper» Franklin y Michael Session. Está disponible en MUBI.</p></div>"
     },
     {
       "titulo": "Créditos",

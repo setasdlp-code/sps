@@ -6,7 +6,7 @@
   "participacion": [
     "Dirección"
   ],
-  "descripcion": "Humberto Camargo, pescador de toda la vida, cuenta la masacre que desarraigó a su comunidad y el desastre ambiental que ha agotado la Ciénaga Grande de Santa Marta.",
+  "descripcion": "Corto documental (2011) sobre Humberto Camargo, pescador de la Ciénaga Grande de Santa Marta, tras la violencia y el desastre ambiental.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "cienaga",
@@ -37,7 +37,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Humberto Camargo, pescador de toda la vida, cuenta la historia de la masacre que desarraigó a su comunidad y del desastre ambiental que ha agotado la Ciénaga Grande de Santa Marta, uno de los humedales costeros más grandes de América Latina.</p>"
+      "html": "<p class=\"project-lead\">Humberto Camargo pesca en la Ciénaga Grande de Santa Marta, donde la masacre y el deterioro ambiental cambiaron la vida de las familias pescadoras.</p><div class=\"project-prose\"><p>Cortometraje documental de 2011 sobre Humberto Camargo, pescador de la Ciénaga Grande de Santa Marta. Muestra a familias de pescadores desplazadas por el conflicto armado que golpeó la zona una década antes y que hoy viven en la pobreza, agravada por el deterioro ambiental de la ciénaga.</p><p>Se proyectó en DOC NYC, en la sección Latin American Visions.</p></div>"
     },
     {
       "titulo": "Ficha técnica",

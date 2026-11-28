@@ -8,7 +8,7 @@
     "Dirección de fotografía",
     "Edición"
   ],
-  "descripcion": "Cortometraje de National Geographic sobre la violencia cíclica en Colombia después del acuerdo de paz de 2016.",
+  "descripcion": "Video de National Geographic sobre una mujer desplazada por la guerra en Colombia que aún no puede volver a casa.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "healing-of-colombia",
@@ -39,7 +39,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Años después de la guerra, una mujer colombiana todavía no puede volver a su casa. Encargo de la revista National Geographic para acompañar un artículo sobre la violencia cíclica en Colombia después del acuerdo de paz de 2016.</p>"
+      "html": "<p class=\"project-lead\">Después del acuerdo de paz, una mujer desplazada por la guerra en Colombia sigue sin poder volver a su tierra.</p><div class=\"project-prose\"><p>Cortometraje documental encargado por la revista National Geographic para acompañar un artículo sobre la violencia cíclica en Colombia después del acuerdo de paz de 2016 entre el Gobierno y las FARC, y sobre los desplazados internos que aún no pueden regresar.</p></div>"
     },
     {
       "titulo": "Créditos",

@@ -7,7 +7,7 @@
     "Asesoría creativa",
     "Sonido directo"
   ],
-  "descripcion": "Una conversación entre padre e hija que cruza lo íntimo y lo colectivo alrededor de la tierra, el conflicto armado, el proceso de paz y la restitución de tierras en Colombia.",
+  "descripcion": "Podcast documental de Canela Reyes con Alejandro Reyes Posada sobre la tierra en Colombia. Premio Simón Bolívar.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "padre-tierra",
@@ -38,7 +38,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Una conversación entre padre e hija que cruza lo íntimo y lo colectivo alrededor de la tierra, el conflicto armado, el proceso de paz y la restitución de tierras en Colombia.</p>"
+      "html": "<p class=\"project-lead\">Una hija conversa con su padre, investigador de la tierra en Colombia durante más de cincuenta años, sobre la tierra y la construcción del país.</p><div class=\"project-prose\"><p>Podcast documental de cinco episodios dirigido por Canela Reyes con su padre, Alejandro Reyes Posada, a partir de más de cinco décadas de investigación sobre la tierra en Colombia. Es una producción de Jarana Cine y Cerosetenta (Universidad de los Andes), publicada en 2023.</p><p>Ganó el Premio Nacional de Periodismo Simón Bolívar en la categoría de entrevista en audio.</p></div>"
     },
     {
       "titulo": "Créditos",

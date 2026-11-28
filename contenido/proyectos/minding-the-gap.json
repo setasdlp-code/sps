@@ -6,7 +6,7 @@
   "participacion": [
     "Asistencia de edición"
   ],
-  "descripcion": "Documental de Bing Liu nominado al Óscar. Sebastián Pinzón Silva fue asistente de edición.",
+  "descripcion": "Documental de Bing Liu (Kartemquin, Hulu). Premio especial del jurado en Sundance 2018 y nominado al Óscar.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "minding-the-gap",
@@ -35,7 +35,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Tres jóvenes que crecieron patinando juntos en Rockford, Illinois, enfrentan la adultez y las heridas de sus familias. Nominada al Óscar a mejor documental.</p>"
+      "html": "<p class=\"project-lead\">Tres jóvenes unidos por el skateboarding en Rockford, Illinois, crecen frente a la cámara de uno de ellos, entre la violencia doméstica y la entrada a la adultez.</p><div class=\"project-prose\"><p>Ópera prima de Bing Liu, coproducida con Diane Moy Quon por Kartemquin Films junto a POV e ITVS. Se estrenó en el Festival de Sundance de 2018, donde recibió el Premio Especial del Jurado a cine documental revelación.</p><p>Hulu adquirió los derechos y la estrenó el 17 de agosto de 2018. Ganó el premio a mejor largometraje de la IDA y fue nominada al Óscar al mejor documental en 2019.</p></div>"
     },
     {
       "titulo": "Créditos",

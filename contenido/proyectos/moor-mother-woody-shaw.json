@@ -6,7 +6,7 @@
   "participacion": [
     "Dirección de fotografía y edición"
   ],
-  "descripcion": "Videoclip de Moor Mother para el álbum Jazz Codes.",
+  "descripcion": "Videoclip de Cyrus Moussavi para «Woody Shaw» de Moor Mother con Melanie Charles, primer sencillo de Jazz Codes (ANTI-, 2022).",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "work-2",
@@ -35,9 +35,9 @@
   "media": "<iframe class=\"film-video\" src=\"https://player.vimeo.com/video/902601947?h=995d3ea1ff&amp;transparent=1\" title=\"Moor Mother — Woody Shaw — Video\" allow=\"fullscreen; picture-in-picture; encrypted-media\" allowfullscreen></iframe>",
   "secciones": [
     {
-      "titulo": "El proyecto",
+      "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Videoclip de Moor Mother para el álbum Jazz Codes.</p>"
+      "html": "<p class=\"project-lead\">En la sede del Pan Afrikan Peoples Arkestra, Moor Mother dice un poema dedicado al trompetista Woody Shaw.</p><div class=\"project-prose\"><p>Videoclip dirigido por Cyrus Moussavi para «Woody Shaw», con Melanie Charles, primer sencillo de Jazz Codes, el disco de Moor Mother publicado por ANTI- el 1 de julio de 2022. Salió en junio de ese año.</p><p>Se filmó en la sede del Pan Afrikan Peoples Arkestra en Leimert Park, Los Ángeles, fundada por Horace Tapscott en 1961. Incluye la voz del bajista Henry Franklin hablando de Shaw.</p></div>"
     },
     {
       "titulo": "Créditos",

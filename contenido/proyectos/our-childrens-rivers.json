@@ -6,7 +6,7 @@
   "participacion": [
     "Dirección de fotografía y edición"
   ],
-  "descripcion": "Sigue a La Guardia de Sinangoe, Ecuador, una guardia indígena que patrulla sus tierras ancestrales para proteger uno de los lugares con mayor biodiversidad del planeta de las indus",
+  "descripcion": "Corto documental de Dominic Gill sobre la guardia indígena A'i Cofán de Sinangoe, Ecuador. Honnold Foundation, 2023.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "work-1",
@@ -37,7 +37,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Sigue a La Guardia de Sinangoe, Ecuador, una guardia indígena que patrulla sus tierras ancestrales para proteger uno de los lugares con mayor biodiversidad del planeta de las industrias extractivas.</p>"
+      "html": "<p class=\"project-lead\">La guardia indígena de Sinangoe patrulla el territorio A'i Cofán en la Amazonía ecuatoriana para frenar la minería de oro.</p><div class=\"project-prose\"><p>Cortometraje documental de 15 minutos dirigido por Dominic Gill (Encompass Films), producido con la Honnold Foundation, Amazon Frontlines y la Alianza Ceibo, y publicado en septiembre de 2023. Sigue a la Guardia de Sinangoe y su defensa del territorio frente al extractivismo.</p><p>Su lucha llevó a la Corte Constitucional de Ecuador a anular 52 concesiones mineras en tierras A'i Cofán. La película recibió el premio a película indígena en Films for the Forest 2023.</p></div>"
     },
     {
       "titulo": "Créditos",

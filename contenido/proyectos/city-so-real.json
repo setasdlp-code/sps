@@ -6,7 +6,7 @@
   "participacion": [
     "Cámara"
   ],
-  "descripcion": "Retrato del Chicago contemporáneo durante la elección de alcalde de 2019 y el verano de 2020, marcado por la pandemia y las protestas tras la muerte de George Floyd.",
+  "descripcion": "Serie documental de Steve James sobre la elección de alcalde de Chicago en 2019 y la ciudad en 2020. National Geographic y Hulu.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "work-4",
@@ -37,7 +37,7 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Retrato del Chicago contemporáneo durante la elección de alcalde de 2019 y el verano de 2020, marcado por la pandemia y las protestas tras la muerte de George Floyd.</p>"
+      "html": "<p class=\"project-lead\">Chicago elige alcalde en 2019 y, un año después, enfrenta la pandemia y las protestas tras el asesinato de George Floyd.</p><div class=\"project-prose\"><p>Serie documental de cinco episodios dirigida por Steve James. Parte de la decisión de Rahm Emanuel de no buscar la reelección y sigue la contienda por la alcaldía de 2019, que terminó en la segunda vuelta entre Lori Lightfoot y Toni Preckwinkle y en la elección de Lightfoot.</p><p>El episodio final vuelve a la ciudad en 2020, durante la pandemia de COVID-19 y las protestas tras el asesinato de George Floyd. Se estrenó en National Geographic el 29 de octubre de 2020 y al día siguiente llegó a Hulu.</p></div>"
     },
     {
       "titulo": "Créditos",
