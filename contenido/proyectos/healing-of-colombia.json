@@ -8,7 +8,7 @@
     "Dirección de fotografía",
     "Edición"
   ],
-  "descripcion": "Video de National Geographic sobre una mujer desplazada por la guerra en Colombia que aún no puede volver a casa.",
+  "descripcion": "Corto documental de National Geographic que acompaña «The Healing of Colombia» (enero de 2018), sobre la paz y los desplazados en Colombia.",
   "ventana": false,
   "imagen_tarjeta": {
     "archivo": "healing-of-colombia",
@@ -39,7 +39,11 @@
     {
       "titulo": "Sinopsis",
       "clase": "project-story",
-      "html": "<p class=\"project-lead\">Después del acuerdo de paz, una mujer desplazada por la guerra en Colombia sigue sin poder volver a su tierra.</p><div class=\"project-prose\"><p>Cortometraje documental encargado por la revista National Geographic para acompañar un artículo sobre la violencia cíclica en Colombia después del acuerdo de paz de 2016 entre el Gobierno y las FARC, y sobre los desplazados internos que aún no pueden regresar.</p></div>"
+      "html": "<p class=\"project-lead\">Después de 52 años de guerra, Colombia intenta sanar. Una mujer desplazada por la violencia todavía no puede volver a su casa.</p><div class=\"project-prose\"><p>Cortometraje documental encargado por National Geographic para acompañar «The Healing of Colombia», el reportaje de Alma Guillermoprieto con fotografías de Juan Arredondo publicado en la edición de enero de 2018 de la revista.</p><p>El reportaje recorre el país tras el acuerdo de paz de 2016 y la entrega de armas de las FARC a la ONU en junio de 2017. Su punto de partida es El Salado (Bolívar), donde los paramilitares asesinaron a 66 personas en febrero de 2000 y cuyos habitantes, desplazados en su totalidad, regresaron dos años después para reconstruir el pueblo. El video da voz a quienes, como ellos, siguen esperando volver a su tierra.</p></div>"
+    },
+    {
+      "titulo": "Artículo",
+      "html": "<ul class=\"project-facts\"><li><i>The Healing of Colombia</i> — National Geographic, enero de 2018</li><li>Texto: Alma Guillermoprieto · Fotografías: Juan Arredondo</li></ul><a class=\"film-source-link\" href=\"https://www.nationalgeographic.com/magazine/article/colombia-civil-war-farc-guerillas-peace\" target=\"_blank\" rel=\"noopener\">Leer el artículo en National Geographic ↗</a>"
     },
     {
       "titulo": "Créditos",
